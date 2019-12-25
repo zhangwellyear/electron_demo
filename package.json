@@ -1,0 +1,27 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "HiGIS桌面端处理程序",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "debug": "electron --inspect=3000 ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangwellyear/electron_demo.git"
+  },
+  "keywords": [
+    "gis"
+  ],
+  "author": "Weiye Zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangwellyear/electron_demo/issues"
+  },
+  "homepage": "https://github.com/zhangwellyear/electron_demo#readme",
+  "dependencies": {
+    "electron": "^7.1.1"
+  }
+}

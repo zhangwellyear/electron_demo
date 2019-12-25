@@ -1,0 +1,21 @@
+nav {
+    display: flex;
+    flex-grow: unset;
+}
+
+img {
+    width: 40%;
+}
+
+#oblique, #terrain {
+    text-align: center;
+    cursor: pointer;
+}
+
+#oblique {
+    flex: 1;
+}
+
+#terrain {
+    flex: 1;
+}
